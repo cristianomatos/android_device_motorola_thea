@@ -22,7 +22,7 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "TheMuppets",
+    "remote": "tm",
     "repository": "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision": "cm-12.1"
